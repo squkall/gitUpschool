@@ -1,0 +1,1 @@
+merge ne modifie pas l'historique c'est donc mieux CQFD
