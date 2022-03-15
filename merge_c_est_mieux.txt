@@ -1,1 +1,3 @@
 merge ne modifie pas l'historique c'est donc mieux CQFD
+
+en plus pull par défaut ça merge
