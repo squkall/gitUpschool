@@ -1,0 +1,1 @@
+UPDATE table1 SET colonne2='Texte2' WHERE id_table1=1;
