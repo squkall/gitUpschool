@@ -1,0 +1,3 @@
+avec rebase c'est plus clean, que demander de plus?
+
+on peut squash c'est moins le bazar
