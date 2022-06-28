@@ -1,2 +1,2 @@
-<<<<<<< HEAD
+Je suis un conflit<<<<<<< HEAD
 >>>>>>> début du débat
